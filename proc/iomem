@@ -1,0 +1,49 @@
+00000000-0009ebff : System RAM
+  00000000-00000000 : Crash kernel
+000a0000-000bffff : Video RAM area
+000c0000-000c8fff : Video ROM
+000c9000-000cebff : Adapter ROM
+000cf000-000cffff : Adapter ROM
+000d0000-000d0fff : Adapter ROM
+000f0000-000fffff : System ROM
+00100000-9e2b6fff : System RAM
+  00200000-0046f803 : Kernel code
+  0046f804-005ab51f : Kernel data
+9e2b7000-9e37cfff : ACPI Non-volatile Storage
+9e37d000-9fa31fff : System RAM
+9fa32000-9fa99fff : reserved
+9fa9a000-9faa8fff : System RAM
+9faa9000-9fb19fff : ACPI Non-volatile Storage
+9fb1a000-9fb24fff : System RAM
+9fb25000-9fb39fff : ACPI Tables
+9fb3a000-9fbfffff : System RAM
+9fc00000-afffffff : reserved
+b0000000-b7ffffff : PCI Bus #0d
+  b0000000-b7ffffff : 0000:0d:0c.0
+b8000000-b8afffff : PCI Bus #01
+  b8000000-b89fffff : PCI Bus #02
+    b8000000-b88fffff : PCI Bus #05
+      b8000000-b83fffff : 0000:05:00.1
+        b8000000-b83fffff : e1000e
+      b8400000-b87fffff : 0000:05:00.0
+        b8400000-b87fffff : e1000e
+      b8800000-b881ffff : 0000:05:00.1
+        b8800000-b881ffff : e1000e
+      b8820000-b883ffff : 0000:05:00.0
+        b8820000-b883ffff : e1000e
+    b8900000-b89fffff : PCI Bus #04
+      b8900000-b890ffff : 0000:04:00.0
+      b8910000-b8913fff : 0000:04:00.0
+b8b00000-b8bfffff : PCI Bus #0d
+  b8b00000-b8b0ffff : 0000:0d:0c.0
+b8c00000-b8c003ff : 0000:00:1f.2
+b8c00400-b8c007ff : 0000:00:1d.7
+  b8c00400-b8c007ff : ehci_hcd
+b8e00000-b8ffffff : PCI Bus #01
+  b8e00000-b8ffffff : PCI Bus #02
+    b8e00000-b8ffffff : PCI Bus #04
+      b8e00000-b8ffffff : 0000:04:00.0
+fe700000-fe7003ff : 0000:00:08.0
+ffe00000-ffe0bfff : reserved
+fffe0000-ffffffff : 0000:0d:0c.0
+100000000-45fffffff : System RAM

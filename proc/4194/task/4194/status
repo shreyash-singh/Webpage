@@ -1,0 +1,36 @@
+Name:	hidd
+State:	S (sleeping)
+SleepAVG:	0%
+Tgid:	4194
+Pid:	4194
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	
+VmPeak:	    8516 kB
+VmSize:	    8512 kB
+VmLck:	       0 kB
+VmHWM:	     480 kB
+VmRSS:	     480 kB
+VmData:	     168 kB
+VmStk:	      84 kB
+VmExe:	      32 kB
+VmLib:	    2044 kB
+VmPTE:	      36 kB
+StaBrk:	2b572c8a1000 kB
+Brk:	2b572c8c2000 kB
+StaStk:	7fff99077dd0 kB
+Threads:	1
+SigQ:	1/143360
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	fffffffe7ffaaefc
+SigIgn:	0000000000011000
+SigCgt:	0000000000004003
+CapInh:	0000000000000000
+CapPrm:	00000000fffffeff
+CapEff:	00000000fffffeff
+Cpus_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed:	00000000,00000001

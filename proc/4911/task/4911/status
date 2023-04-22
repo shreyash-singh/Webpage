@@ -1,0 +1,23 @@
+Name:	nfsd
+State:	S (sleeping)
+SleepAVG:	98%
+Tgid:	4911
+Pid:	4911
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	48
+Gid:	0	0	0	48
+FDSize:	64
+Groups:	48 
+Threads:	1
+SigQ:	1/143360
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	fffffffffffffef8
+SigIgn:	0000000000000000
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	00000000ffffffff
+CapEff:	00000000fefffee0
+Cpus_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed:	00000000,00000001

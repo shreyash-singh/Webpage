@@ -1,0 +1,23 @@
+Name:	kondemand/1
+State:	S (sleeping)
+SleepAVG:	88%
+Tgid:	2978
+Pid:	2978
+PPid:	175
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	
+Threads:	1
+SigQ:	1/143360
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	ffffffffffffffff
+SigIgn:	0000000000010000
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	00000000ffffffff
+CapEff:	00000000fffffeff
+Cpus_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000002
+Mems_allowed:	00000000,00000001

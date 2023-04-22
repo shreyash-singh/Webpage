@@ -1,0 +1,36 @@
+Name:	acpid
+State:	S (sleeping)
+SleepAVG:	78%
+Tgid:	4250
+Pid:	4250
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	
+VmPeak:	    3800 kB
+VmSize:	    3796 kB
+VmLck:	       0 kB
+VmHWM:	     568 kB
+VmRSS:	     568 kB
+VmData:	     168 kB
+VmStk:	      84 kB
+VmExe:	      20 kB
+VmLib:	    1440 kB
+VmPTE:	      28 kB
+StaBrk:	2ba575fa7000 kB
+Brk:	2ba575fc8000 kB
+StaStk:	7fff3f1d9f40 kB
+Threads:	1
+SigQ:	1/143360
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000000004007
+CapInh:	0000000000000000
+CapPrm:	00000000fffffeff
+CapEff:	00000000fffffeff
+Cpus_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed:	00000000,00000001

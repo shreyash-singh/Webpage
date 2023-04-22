@@ -1,0 +1,16 @@
+rootfs / rootfs rw 0 0
+/dev/root / ext3 rw,data=ordered 0 0
+/dev /dev tmpfs rw 0 0
+/proc /proc proc rw 0 0
+/sys /sys sysfs rw 0 0
+/proc/bus/usb /proc/bus/usb usbfs rw 0 0
+devpts /dev/pts devpts rw 0 0
+/dev/sdd3 /tmp ext3 rw,data=ordered 0 0
+/dev/VolGroup00/LogVol00 /www ext3 rw,data=ordered,usrquota 0 0
+/dev/sdc1 /var ext3 rw,data=ordered 0 0
+tmpfs /dev/shm tmpfs rw 0 0
+none /proc/sys/fs/binfmt_misc binfmt_misc rw 0 0
+sunrpc /var/lib/nfs/rpc_pipefs rpc_pipefs rw 0 0
+/etc/auto.users /users autofs rw,fd=5,pgrp=4226,timeout=60,minproto=5,maxproto=5,indirect 0 0
+nfsd /proc/fs/nfsd nfsd rw 0 0
+vfiler:/users/me /users/me nfs rw,nosuid,vers=3,rsize=32768,wsize=32768,soft,intr,nolock,proto=tcp,timeo=600,retrans=2,sec=sys,addr=vfiler 0 0

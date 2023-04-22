@@ -1,0 +1,36 @@
+Name:	auditd
+State:	S (sleeping)
+SleepAVG:	98%
+Tgid:	3691
+Pid:	3692
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	
+VmPeak:	  158400 kB
+VmSize:	   92864 kB
+VmLck:	       0 kB
+VmHWM:	     876 kB
+VmRSS:	     876 kB
+VmData:	   75984 kB
+VmStk:	      84 kB
+VmExe:	     164 kB
+VmLib:	    2232 kB
+VmPTE:	      60 kB
+StaBrk:	2b1ee2580000 kB
+Brk:	2b1ee25a1000 kB
+StaStk:	7fffd0d3c980 kB
+Threads:	2
+SigQ:	1/143360
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000006a01
+SigIgn:	fffffffe7ffab4fe
+SigCgt:	0000000180014a01
+CapInh:	0000000000000000
+CapPrm:	00000000fffffeff
+CapEff:	00000000fffffeff
+Cpus_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed:	00000000,00000001

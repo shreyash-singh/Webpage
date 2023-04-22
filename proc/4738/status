@@ -1,0 +1,36 @@
+Name:	pluto
+State:	S (sleeping)
+SleepAVG:	1%
+Tgid:	4738
+Pid:	4738
+PPid:	4697
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	
+VmPeak:	    9360 kB
+VmSize:	    9360 kB
+VmLck:	       0 kB
+VmHWM:	     600 kB
+VmRSS:	     600 kB
+VmData:	     456 kB
+VmStk:	      84 kB
+VmExe:	     880 kB
+VmLib:	    1700 kB
+VmPTE:	      36 kB
+StaBrk:	2b49e224b000 kB
+Brk:	2b49e226c000 kB
+StaStk:	7fffd9239b10 kB
+Threads:	1
+SigQ:	1/143360
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000006
+SigCgt:	0000000000000201
+CapInh:	0000000000000000
+CapPrm:	00000000fffffeff
+CapEff:	00000000fffffeff
+Cpus_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed:	00000000,00000001

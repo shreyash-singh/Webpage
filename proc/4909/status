@@ -1,0 +1,23 @@
+Name:	lockd
+State:	S (sleeping)
+SleepAVG:	0%
+Tgid:	4909
+Pid:	4909
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	
+Threads:	1
+SigQ:	1/143360
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	fffffffffffffeff
+SigIgn:	0000000000000000
+SigCgt:	0000000000000100
+CapInh:	0000000000000000
+CapPrm:	00000000ffffffff
+CapEff:	00000000fffffeff
+Cpus_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,000000ff
+Mems_allowed:	00000000,00000001

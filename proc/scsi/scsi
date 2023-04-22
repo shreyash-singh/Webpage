@@ -1,0 +1,13 @@
+Attached devices:
+Host: scsi0 Channel: 00 Id: 00 Lun: 00
+  Vendor: SEAGATE  Model: ST3300655SS      Rev: 0002
+  Type:   Direct-Access                    ANSI SCSI revision: 05
+Host: scsi0 Channel: 00 Id: 01 Lun: 00
+  Vendor: SEAGATE  Model: ST3300655SS      Rev: 0002
+  Type:   Direct-Access                    ANSI SCSI revision: 05
+Host: scsi0 Channel: 00 Id: 02 Lun: 00
+  Vendor: FUJITSU  Model: MAX3147RC        Rev: 0104
+  Type:   Direct-Access                    ANSI SCSI revision: 03
+Host: scsi0 Channel: 00 Id: 03 Lun: 00
+  Vendor: FUJITSU  Model: MAX3147RC        Rev: 0104
+  Type:   Direct-Access                    ANSI SCSI revision: 03
